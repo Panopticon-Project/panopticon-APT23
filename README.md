@@ -7,3 +7,5 @@ https://www.anomali.com/blog/anomali-suspects-that-china-backed-apt-pirate-panda
 https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-troopers-back-usbferry-attack-targets-air-gapped-environments/
 
 https://threatpost.com/tropic-trooper-transportation/177106/
+
+https://www.securityweek.com/17-malware-frameworks-target-air-gapped-systems-espionage
