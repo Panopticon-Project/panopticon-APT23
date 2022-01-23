@@ -9,3 +9,5 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-troopers-back
 https://threatpost.com/tropic-trooper-transportation/177106/
 
 https://www.securityweek.com/17-malware-frameworks-target-air-gapped-systems-espionage
+
+https://www.trendmicro.com/en_ph/research/21/l/collecting-in-the-dark-tropic-trooper-targets-transportation-and-government-organizations.html
