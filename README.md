@@ -11,3 +11,7 @@ https://threatpost.com/tropic-trooper-transportation/177106/
 https://www.securityweek.com/17-malware-frameworks-target-air-gapped-systems-espionage
 
 https://www.trendmicro.com/en_ph/research/21/l/collecting-in-the-dark-tropic-trooper-targets-transportation-and-government-organizations.html
+
+https://www.proofpoint.com/us/blog/threat-insight/chinese-apt-ta413-resumes-targeting-tibet-following-covid-19-themed-economic
+
+https://securityaffairs.co/wordpress/115030/apt/china-ta413-targets-tibet.html
