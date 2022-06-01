@@ -15,3 +15,5 @@ https://www.trendmicro.com/en_ph/research/21/l/collecting-in-the-dark-tropic-tro
 https://www.proofpoint.com/us/blog/threat-insight/chinese-apt-ta413-resumes-targeting-tibet-following-covid-19-themed-economic
 
 https://securityaffairs.co/wordpress/115030/apt/china-ta413-targets-tibet.html
+
+https://www.securityweek.com/chinese-threat-actors-exploiting-follina-vulnerability
