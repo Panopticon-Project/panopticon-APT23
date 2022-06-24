@@ -17,3 +17,5 @@ https://www.proofpoint.com/us/blog/threat-insight/chinese-apt-ta413-resumes-targ
 https://securityaffairs.co/wordpress/115030/apt/china-ta413-targets-tibet.html
 
 https://www.securityweek.com/chinese-threat-actors-exploiting-follina-vulnerability
+
+https://research.checkpoint.com/2022/chinese-actor-takes-aim-armed-with-nim-language-and-bizarro-aes/
